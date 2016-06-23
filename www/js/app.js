@@ -12,9 +12,11 @@ angular.module('app', ['ionic', 'firebase', 'app.controllers', 'app.routes', 'ap
 
     //funciones de Notificaciones
     var notificationOpenedCallback = function(jsonData) {
-    alert('notification es recibida')
-      console.log('didReceiveRemoteNotificationCallBack: ' + JSON.stringify(jsonData));
-    };
+   if (jsonData.additionalData) {
+     if (jsonData.additionalData.yourUrlKey)
+       location.href = jsonData.additionalData.yourUrlKey;
+   }
+ }
 
     window.plugins.OneSignal.init("728d2520-4439-4977-b869-752324a718da",
                                    {googleProjectNumber: "136367561171"},
