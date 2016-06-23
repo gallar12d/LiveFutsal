@@ -137,7 +137,22 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('equiposHeroCtrl', function($scope) {
+.controller('equiposHeroCtrl', function($scope, $http, $firebaseArray, $rootScope) {
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/EquiposHero");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.equipos = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          equipo: 'leones',
+          ciudad: 'pasto',
+          imagen: 'fuente',
+          urlPagina: 'facebook'
+
+        });
+      }
+    })
 
 })
 
