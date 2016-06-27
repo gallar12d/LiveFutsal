@@ -52,7 +52,7 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('resultadosMundialCtrl', function($scope) {
+.controller('resultadosMundialCtrl', function($scope, $http, $firebaseArray, $rootScope) {
 
 })
 
@@ -88,7 +88,7 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('noticiasMundialCtrl', function($scope) {
+.controller('noticiasMundialCtrl', function($scope, $http, $firebaseArray, $rootScope) {
 
 })
 
@@ -125,15 +125,76 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('resultadosArgosCtrl', function($scope) {
+.controller('resultadosArgosCtrl', function($scope, $http, $firebaseArray, $rootScope) {
+  $scope.trustSrc = function(src) {
+   return $sce.trustAsResourceUrl(src);
+ }
+
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/ResultadosArgos");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.resultadosAll = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          titulo: 'leones',
+          url: 'pasto',
+          fuente: 'fuente'
+
+        });
+      }
+    })
+
 
 })
 
-.controller('noticiasArgosCtrl', function($scope) {
+.controller('noticiasArgosCtrl', function($scope, $http, $firebaseArray, $rootScope) {
+  var RefNotiHero= new Firebase("https://livefutsal1.firebaseio.com/NoticiasArgos");
+        $scope.todasNoticiasHero = $firebaseArray(RefNotiHero);
+        $scope.todasNoticiasHero.$loaded().then(function(dataResultados)
+        {
+
+
+            if(dataResultados.length)
+
+            {
+
+                $scope.noticiasAll=dataResultados;
+
+            }
+            else
+            {
+                $scope.todasNoticiasHero.$add({
+                titulo:'2016' ,
+                texto:'equipo1'
+
+               });
+
+
+
+            }
+
+       })
 
 })
 
-.controller('calendarioArgosCtrl', function($scope) {
+.controller('calendarioArgosCtrl', function($scope, $http, $firebaseArray, $rootScope) {
+
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/CalendarioArgos");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.calendarios = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          equipo: 'leones',
+          ciudad: 'pasto',
+          imagen: 'fuente',
+          urlPagina: 'facebook'
+
+        });
+      }
+    })
 
 })
 
@@ -156,7 +217,22 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('equiposArgosCtrl', function($scope) {
+.controller('equiposArgosCtrl', function($scope, $http, $firebaseArray, $rootScope) {
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/EquiposArgos");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.equipos = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          equipo: 'leones',
+          ciudad: 'pasto',
+          imagen: 'fuente',
+          urlPagina: 'facebook'
+
+        });
+      }
+    })
 
 })
 
@@ -168,7 +244,27 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('posicionesHeroCtrl', function($scope) {
+.controller('posicionesHeroCtrl', function($scope, $http, $firebaseArray, $rootScope, $sce) {
+  $scope.trustSrc = function(src) {
+   return $sce.trustAsResourceUrl(src);
+ }
+
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/PosicionesHero");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.posiciones = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          titulo: 'leones',
+          url: 'pasto',
+          fuente: 'fuente'
+
+        });
+      }
+    })
+
+
 
 })
 
@@ -180,10 +276,45 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('imagenesHeroCtrl', function($scope) {
+.controller('imagenesHeroCtrl', function($scope, $http, $firebaseArray, $rootScope, $sce) {
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/ImagenesHero");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.imagenes = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          titulo: 'leones',
+          url: 'pasto',
+          fuente: 'fuente'
+
+        });
+      }
+    })
 
 })
 
-.controller('videosHeroCtrl', function($scope) {
+.controller('videosHeroCtrl', function($scope, $http, $firebaseArray, $rootScope, $sce) {
+
+  $scope.trustSrc = function(src) {
+   return $sce.trustAsResourceUrl(src);
+ }
+
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/VideosHero");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.videos = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          titulo: 'leones',
+          url: 'pasto',
+          fuente: 'fuente'
+
+        });
+      }
+    })
+
+
 
 })

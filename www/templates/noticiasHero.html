@@ -1,7 +1,12 @@
 <ion-view title="Noticias Hero" id="page9" class=" ">
     <ion-content padding="true" class="has-header">
-      <div ng-repeat="noticia in noticiasAll">
-      <div class="list card " id="noticiasHero-card28"> <div class=" item item-image"> <img src="{{noticia.urlImgNoticia}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;"><p><small>{{noticia.derechoFoto}}</small></p> </div> <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="tel:"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item> <p id="noticiasHero-markdown6" style="color:#000000;text-align:justify;" class=" "></p> <p id="noticiasHero-markdown7" style="color:#000000;text-align:center;" class=" ">{{noticia.texto}}</p> </div>
+      <div id="noticiasHero-button-bar2" class=" button-bar clase1">
+          <a ui-sref="tabsController.videosHero" id="noticiasHero-button21" style="font-weight:300;color:default;" class=" button button-assertive  button-block button-outline icon-left ion-ios-videocam ">Videos</a>
+          <br>
+          <a ui-sref="tabsController.imagenesHero" id="noticiasHero-button23" style="font-weight:300;color:default;" class=" button button-assertive  button-block button-outline icon-right ion-image ">Imágenes</a>
+      </div>
+      <div ng-repeat="noticia in noticiasAll| orderBy:$index:true">
+      <div class="list card " id="noticiasHero-card28"> <div class=" item item-image"> <img src="{{noticia.urlImgNoticia}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;"><p><small style="font-size: 70%; text-align: right;" >{{noticia.derechoFoto}}</small></p> </div> <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="tel:"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item> <p id="noticiasHero-markdown6" style="color:#000000;text-align:justify;" class=" "></p> <p id="noticiasHero-markdown7" style="color:#000000;text-align:center;" class=" ">{{noticia.texto}}</p> </div>
         </div>
     </ion-content>
 </ion-view>

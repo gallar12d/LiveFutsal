@@ -1,3 +1,17 @@
 <ion-view title="Posiciones Hero" id="page20" class=" ">
-    <ion-content padding="true" class="has-header"></ion-content>
+    <ion-content padding="true" class="has-header">
+      <div class="" ng-repeat="posicion in posiciones| orderBy:$index:true">
+        <div class="list card " id="imagenesHero-card230">
+            <h5 id="imagenesHero-heading5" style="color:#000222;text-align:center;" class=" ">{{posicion.titulo}}</h5>
+            <div class=" item item-image">
+                <a style="display:block;" href="tel:">
+                    <img src="{{posicion.url}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+                </a>
+            </div>
+            <p id="imagenesHero-markdown15" style="color:#000222;font-size:10px;" class=" ">Fuente: {{posicion.fuente}}</p>
+        </div>
+
+      </div>
+
+    </ion-content>
 </ion-view>

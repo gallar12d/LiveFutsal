@@ -1,6 +1,6 @@
 <ion-view title="Resultados Hero" id="page6" style="background-color:#FFFFFF;" class=" ">
     <ion-content padding="true" class="has-header">
-      <div ng-repeat="resultado in resultadosAll" >
+      <div ng-repeat="resultado in resultadosAll| orderBy:$index:true" >
 
        <div class="border">
           <div class="row" style="margin-left: 0px;">

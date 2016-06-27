@@ -57,14 +57,23 @@
   <body ng-app="app" animation="slide-left-right-ios7">
   <div>
     <div>
-        <ion-nav-bar class="bar-stable">
-            <ion-nav-back-button class="button-icon icon ion-ios-arrow-back"></ion-nav-back-button>
-        </ion-nav-bar>
+
         <ion-nav-view></ion-nav-view>
     </div>
 </div>
 <script src="https://cdn.firebase.com/js/client/2.2.4/firebase.js"></script>
 <script src="https://cdn.firebase.com/libs/angularfire/1.2.0/angularfire.min.js"></script>
 <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDivQUGlfU4nvZ4t9Zr6zv4U6YMcna_9Bc",
+    authDomain: "livefutsal1.firebaseapp.com",
+    databaseURL: "https://livefutsal1.firebaseio.com",
+    storageBucket: "livefutsal1.appspot.com",
+  };
+  firebase.initializeApp(config);
+</script>
   </body>
 </html>

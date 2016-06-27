@@ -1,6 +1,6 @@
 <ion-view title="Calendario Hero" id="page12" class=" ">
     <ion-content padding="true" class="has-header">
-      <div class="" ng-repeat="calendario in calendarios">
+      <div class="" ng-repeat="calendario in calendarios| orderBy:$index:true">
         <div class="list card " id="calendarioHero-card212">
             <ion-item class="item-thumbnail-left  " id="calendarioHero-list-item56">
                 <img src="img/WqEYJKm0RMIjA3uqWQGT_cGCnBOkPQnO30LcDe5cg_futsalon.png">

@@ -1,28 +1,179 @@
-<ion-view title="Resultados" hide-back-button="true" id="page2" class=" ">
-    <ion-content padding="true" class="has-header">
-        <div class="list card " id="resultados-card21">
-            <ion-item class="item-thumbnail-left  " id="resultados-list-item2">
-                <img src="img/cGCnBOkPQnO30LcDe5cg_futsalon.png">
-                <h2>Copa Hero</h2>
-                <p>Fútbol de Salón</p>
-            </ion-item>
-            <a ui-sref="tabsController.resultadosHero" id="resultados-button1" class=" button button-assertive  button-block ">Resultados</a>
+<ion-view title="" hide-back-button="true" id="page2" class=" ">
+
+
+  <ion-content scroll="false">
+
+
+
+  <ion-slides  options="options" slider="data.slider">
+
+
+
+
+    <ion-slide-page>
+      <div class="bar bar-header bar-stable">
+      <h5 class="title">Resultados en vivo</h5>
+      </div>
+        <ion-content>
+
+          <br>
+          <br>
+
+
+          <div class="box blue" ng-controller="resultadosHeroCtrl">
+            <!-- <div ng-hide="!showPager" class="swiper-pagination swiper-pagination-clickable">
+              <span class="swiper-pagination-bullet swiper-pagination-bullet-active"> </span>
+              <span class="swiper-pagination-bullet"> </span>
+
+            </div> -->
+
+          <div ng-repeat="resultado in resultadosAll| orderBy:$index:true" >
+           <div class="border">
+              <div class="row" style="margin-left: 0px;">
+                 <div class="col-xs-12">
+
+                    <h4 class="text-center">
+                       {{resultado.fecha}}
+                    </h4>
+                    <h5 class="text-center">
+                       {{resultado.hora}}
+                    </h5>
+                    <div class="border2">
+                      <h5 class="text-center">
+                        {{resultado.estado}}
+                      </h5>
+                      <h6 class="text-center">
+                      {{resultado.ronda}}
+                      </h6>
+                       <div class="row">
+
+                          <div class="col-xs-6">
+                             <h5 class ="text-left">
+                                {{resultado.equipo1}}
+                             </h5>
+                          </div>
+                          <div class="col-xs-6">
+                             <h5 class ="text-right">
+                                {{resultado.equipo2}}
+                             </h5>
+                          </div>
+                       </div>
+                       <div class="row">
+                          <div class="col-xs-4">
+                             <h5 class ="text-left">
+                                {{resultado.marcador1}}
+                             </h5>
+                             <img alt="Bootstrap Image Preview" src="{{resultado.urlAvatar1}}" style ="width: 50px;"class="img-circle" />
+                          </div>
+                          <div class="col-xs-4">
+                             <h5 class="text-center">
+                                VS
+                             </h5>
+                          </div>
+                          <div class="col-xs-4">
+                             <h5 class ="text-right">
+                                {{resultado.marcador2}}
+                             </h5>
+                             <img alt="Bootstrap Image Preview" src="{{resultado.urlAvatar2}}" style ="width: 50px;"class="img-circle imgRight" />
+                          </div>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+           </div>
         </div>
-        <div class="list card " id="resultados-card22">
-            <ion-item class="item-thumbnail-left  " id="resultados-list-item4">
-                <img src="img/PKH6YpeESJKwkmk8T0Ol_futsal.png">
-                <h2>Liga Argos</h2>
-                <p style="white-space:normal;">Fútbol Sala</p>
-            </ion-item>
-            <a ui-sref="tabsController.resultadosArgos" id="resultados-button2" style="color:#FFFFFF;" class=" button button-balanced  button-block ">Resultados</a>
-        </div>
-        <div class="list card " id="resultados-card23">
-            <ion-item class="item-thumbnail-left  " id="resultados-list-item72">
-                <img src="img/tHOsRYPR7iS4Fou4aqVQ_MundialLogo.png">
-                <h2>Mundial Futsal</h2>
-                <p style="white-space:normal;">Colombia 2016</p>
-            </ion-item>
-            <a ui-sref="tabsController.resultadosMundial" id="resultados-button9" style="color:#FFFFFF;" class=" button button-calm  button-block ">Resultados</a>
+
+
+
+
+
+
+      </div>
+
+      </ion-content>
+    </ion-slide-page>
+    <ion-slide-page>
+      <div class="bar bar-header bar-stable">
+      <h1 class="title">Noticias</h1>
+    </div>
+      <ion-content>
+          <div class="box blue" ng-controller="noticiasHeroCtrl">
+            <br>
+            <br>
+
+          <div ng-repeat="noticia in noticiasAll| orderBy:$index:true">
+            <div class="list card " id="noticiasHero-card28">
+              <div class=" item item-image">
+                <img src="{{noticia.urlImgNoticia}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+                <p><small style="font-size: 70%; text-align: right;" >{{noticia.derechoFoto}}</small></p>
+              </div>
+              <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="{{noticia.urlNoticia}}" target="_blank"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item>
+              <p id="noticiasHero-markdown6" style="color:#000000;text-align:justify;" class=" "></p>
+              <p id="noticiasHero-markdown7" style="color:#000000;text-align:center;" class=" ">{{noticia.texto}}</p>
+            </div>
+            </div>
         </div>
     </ion-content>
+    </ion-slide-page>
+      <ion-slide-page>
+        <div class="bar bar-header bar-stable">
+        <h1 class="title">Calendario</h1>
+      </div>
+        <ion-content>
+          <br>
+          <br>
+          <div class="box blue" ng-controller="calendarioHeroCtrl">
+
+            <div class="" ng-repeat="calendario in calendarios| orderBy:$index:true">
+              <div class="list card " id="calendarioHero-card212">
+                  <ion-item class="item-thumbnail-left  " id="calendarioHero-list-item56">
+                      <img src="img/WqEYJKm0RMIjA3uqWQGT_cGCnBOkPQnO30LcDe5cg_futsalon.png">
+                      <h2>Fecha</h2>
+                      <p style="text-transform: lowercase;">{{calendario.ronda}}</p>
+                      <p style="text-transform: lowercase;">{{calendario.fecha}}</p>
+                      <small style="font-size: 70%;">Copyright {{calendario.fuente}}</small>
+                  </ion-item>
+                  <div class=" item item-image">
+                      <img src="{{calendario.urlimagen1}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+                  </div>
+                  <div class=" item item-image">
+                      <img src="{{calendario.urlimagen2}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+                  </div>
+              </div>
+            </div>
+
+          </div>
+      </ion-content>
+
+    </ion-slide-page>
+    <ion-slide-page>
+      <div class="bar bar-header bar-stable">
+      <h1 class="title">Equipos</h1>
+    </div>
+      <ion-content>
+        <br>
+        <br>
+        <div class="box blue" ng-controller="equiposHeroCtrl">
+
+          <a ui-sref="tabsController.posicionesHero" id="equiposHero-button15" class=" button button-assertive  button-block button-outline ">Posiciones</a>
+          <div id="equiposHero-button-bar1" class=" button-bar "></div>
+          <ion-list id="equiposHero-list10" class=" ">
+            <div class="" ng-repeat="equipo in equipos| orderBy:$index:true">
+              <ion-item class="item-avatar " id="equiposHero-list-item68" href="{{equipo.urlPagina}}" target="_blank" >
+                  <img src="{{equipo.imagen}}">
+                  <h2>{{equipo.equipo}}</h2>
+                  <p>{{equipo.ciudad}}</p>
+              </ion-item>
+            </div>
+            </ion-list>
+
+        </div>
+    </ion-content>
+    </ion-slide-page>
+
+
+  </ion-slides>
+
+
+</ion-content>
 </ion-view>
