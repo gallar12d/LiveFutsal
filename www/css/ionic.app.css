@@ -3902,6 +3902,11 @@ a.subdued {
       width: 94%;
       height: 28px;
       background: transparent; }
+      div#calendarioBorde {
+    border-bottom: solid;
+    border-bottom-style: double;
+    border-color: #72a971;
+}
   .bar.bar-light {
     border-color: #ddd;
     background-color: white;

@@ -93,34 +93,68 @@
         </ion-content>
       </ion-slide-page>
       <ion-slide-page>
-        <div class="bar bar-header bar-stable">
-          <h1 class="title">Calendario</h1>
-        </div>
-        <ion-content>
-          <br>
-          <br>
-          <div class="box blue" ng-controller="calendarioArgosCtrl">
-            <div class="" ng-repeat="calendario in calendarios| orderBy:$index:true">
-              <div class="list card " id="calendarioHero-card212">
-                <ion-item class="item-thumbnail-left  " id="calendarioHero-list-item56">
-                  <img src="img/WqEYJKm0RMIjA3uqWQGT_cGCnBOkPQnO30LcDe5cg_futsalon.png">
-                  <h2>Fecha</h2>
-                  <p style="text-transform: lowercase;">{{calendario.ronda}}</p>
-                  <p style="text-transform: lowercase;">{{calendario.fecha}}</p>
-                  <small style="font-size: 70%;">Copyright {{calendario.fuente}}</small>
-                </ion-item>
-
-                <div class=" item item-image">
-                  <img src="{{calendario.urlimagen1}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+  <div class="bar bar-header bar-stable">
+    <h1 class="title">Calendario</h1>
+  </div>
+  <ion-content>
+    <br>
+    <br>
+    <div class="box blue" ng-controller="calendarioMundialCtrl">
+      <div class="" ng-repeat="calendario in calendarios">
+        <div class="border">
+          <div class="row" style="margin-left: 0px;">
+            <div id="calendarioBorde" class="col-xs-12">
+              <h4 class="text-center">
+                {{calendario.fecha}}
+              </h4>
+              <h5 class="text-center">
+                {{calendario.hora}}
+              </h5>
+              <div class="border">
+                <h5 class="text-center">
+                  {{calendario.ciudad}}
+                </h5>
+                <h5 class="text-center">
+                  {{calendario.grupo}}
+                </h5>
+                <h6 class="text-center">
+                  {{calendario.ronda}}
+                </h6>
+                <div class="row">
+                  <div class="col-xs-6">
+                    <h5 class ="text-left">
+                      {{calendario.nombre1}}
+                    </h5>
+                  </div>
+                  <div class="col-xs-6">
+                    <h5 class ="text-right">
+                      {{calendario.nombre2}}
+                    </h5>
+                  </div>
                 </div>
-                <div class=" item item-image">
-                  <img src="{{calendario.urlimagen2}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+                <div class="row">
+                  <div class="col-xs-4">
+
+                    <img alt="Bootstrap Image Preview" src="{{calendario.imagen1}}" style ="width: 50px;"class="img-circle" />
+                  </div>
+                  <div class="col-xs-4">
+                    <h5 class="text-center">
+                      VS
+                    </h5>
+                  </div>
+                  <div class="col-xs-4">
+
+                    <img alt="Bootstrap Image Preview" src="{{calendario.imagen2}}" style ="width: 50px;"class="img-circle imgRight" />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-        </ion-content>
-      </ion-slide-page>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-slide-page>
       <ion-slide-page>
         <div class="bar bar-header bar-stable">
           <h1 class="title">Equipos</h1>

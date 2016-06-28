@@ -262,7 +262,24 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('calendarioMundialCtrl', function($scope) {
+.controller('calendarioMundialCtrl', function($scope, $http, $firebaseArray, $rootScope, $sce) {
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/CalendarioMundial");
+    $scope.todosResultados = $firebaseArray(RefUser);
+    $scope.todosResultados.$loaded().then(function(dataResultados) {
+      if (dataResultados.length) {
+        $scope.calendarios = dataResultados;
+      } else {
+        $scope.todosResultados.$add({
+          titulo: 'leones',
+          url: 'pasto',
+          fuente: 'fuente'
+
+        });
+      }
+    })
+
+
+
 
 })
 
