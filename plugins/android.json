@@ -8,28 +8,28 @@
     },
     "installed_plugins": {
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
-        },
-        "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
-        },
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
-        },
-        "ionic-plugin-keyboard": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
-        },
-        "onesignal-cordova-plugin": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.ionicframework.livefutsal400842"
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.ionicframework.livefutsal400843"
         }
     },
     "dependent_plugins": {}

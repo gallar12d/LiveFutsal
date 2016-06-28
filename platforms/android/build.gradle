@@ -86,7 +86,7 @@ ext {
 }
 
 // PLUGIN GRADLE EXTENSIONS START
-apply from: "onesignal-cordova-plugin/livefutsal400842-build-extras-onesignal.gradle"
+apply from: "onesignal-cordova-plugin/livefutsal400843-build-extras-onesignal.gradle"
 // PLUGIN GRADLE EXTENSIONS END
 
 def hasBuildExtras = file('build-extras.gradle').exists()
