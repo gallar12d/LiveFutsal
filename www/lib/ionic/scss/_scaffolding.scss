@@ -36,8 +36,8 @@ body,
   color: $base-color;
   word-wrap: break-word;
   font-size: $font-size-base;
-  font-family: -apple-system;
-  font-family: $font-family-base;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; -apple-system;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $font-family-base;
   line-height: $line-height-computed;
   text-rendering: optimizeLegibility;
   -webkit-backface-visibility: hidden;

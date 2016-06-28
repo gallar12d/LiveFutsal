@@ -1,12 +1,32 @@
 angular.module('app.controllers', [])
 
-.controller('resultadosCtrl', function($scope) {
+.controller('resultadosCtrl', function($scope, $location) {
+
+
 
 })
 
 .controller('noticiasCtrl', function($scope) {
 
 })
+.controller('estadisticasHeroCtrl', function($scope, $http, $firebaseArray, $rootScope, $location) {
+  var RefUser = new Firebase("https://livefutsal1.firebaseio.com/EstadisticasHero");
+  $scope.todosResultados = $firebaseArray(RefUser);
+  $scope.todosResultados.$loaded().then(function(dataResultados) {
+    if (dataResultados.length) {
+      $scope.estadisticas = dataResultados;
+    } else {
+      $scope.todosResultados.$add({
+        tipo: '2016',
+      url: 'equipo1'
+      });
+    }
+  })
+
+})
+
+
+
 
 .controller('calendarioCtrl', function($scope) {
 
@@ -16,9 +36,11 @@ angular.module('app.controllers', [])
 
 })
 
-.controller('resultadosHeroCtrl', function($scope, $http, $firebaseArray, $rootScope) {
+.controller('resultadosHeroCtrl', function($scope, $http, $firebaseArray, $rootScope, $location) {
 
     var RefUser= new Firebase("https://livefutsal1.firebaseio.com/ResultadosHero");
+
+
           $scope.todosResultados = $firebaseArray(RefUser);
           $scope.todosResultados.$loaded().then(function(dataResultados)
           {

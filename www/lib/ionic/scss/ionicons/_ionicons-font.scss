@@ -2,7 +2,7 @@
 // --------------------------
 
 @font-face {
- font-family: $ionicons-font-family;
+ font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $ionicons-font-family;
  src:url("#{$ionicons-font-path}/ionicons.eot?v=#{$ionicons-version}");
  src:url("#{$ionicons-font-path}/ionicons.eot?v=#{$ionicons-version}#iefix") format("embedded-opentype"),
   url("#{$ionicons-font-path}/ionicons.ttf?v=#{$ionicons-version}") format("truetype"),
@@ -15,7 +15,7 @@
 
 .ion {
   display: inline-block;
-  font-family: $ionicons-font-family;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $ionicons-font-family;
   speak: none;
   font-style: normal;
   font-weight: normal;

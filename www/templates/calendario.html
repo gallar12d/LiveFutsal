@@ -109,6 +109,7 @@
                   <p style="text-transform: lowercase;">{{calendario.fecha}}</p>
                   <small style="font-size: 70%;">Copyright {{calendario.fuente}}</small>
                 </ion-item>
+
                 <div class=" item item-image">
                   <img src="{{calendario.urlimagen1}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
                 </div>
@@ -128,7 +129,6 @@
           <br>
           <br>
           <div class="box blue" ng-controller="equiposArgosCtrl">
-            <a ui-sref="tabsController.posicionesHero" id="equiposHero-button15" class=" button button-assertive  button-block button-outline ">Posiciones</a>
             <div id="equiposHero-button-bar1" class=" button-bar "></div>
             <ion-list id="equiposHero-list10" class=" ">
               <div class="" ng-repeat="equipo in equipos| orderBy:$index:true">
@@ -148,6 +148,6 @@
       <span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
       <span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span>
       </div> -->
-      
+
   </ion-content>
 </ion-view>

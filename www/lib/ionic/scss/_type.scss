@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   color: $base-color;
   font-weight: $headings-font-weight;
-  font-family: $headings-font-family;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $headings-font-family;
   line-height: $headings-line-height;
 
   small {

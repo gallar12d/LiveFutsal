@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 100;
   font-style: normal;
   src: local('Roboto Thin'),
@@ -10,7 +10,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 300;
   font-style: normal;
   src: local('Roboto Light'),
@@ -21,7 +21,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 400;
   font-style: normal;
   src: local('Roboto'),
@@ -32,7 +32,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 500;
   font-style: normal;
   src: local('Roboto Medium'),
@@ -43,7 +43,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 700;
   font-style: normal;
   src: local('Roboto Bold'),
@@ -54,7 +54,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 900;
   font-style: normal;
   src: local('Roboto Black'),
@@ -65,7 +65,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 100;
   font-style: italic;
   src: local('Roboto Thin Italic'),
@@ -76,7 +76,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 300;
   font-style: italic;
   src: local('Roboto Light Italic'),
@@ -87,7 +87,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 400;
   font-style: italic;
   src: local('Roboto Italic'),
@@ -98,7 +98,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 500;
   font-style: italic;
   src: local('Roboto Medium Italic'),
@@ -109,7 +109,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 700;
   font-style: italic;
   src: local('Roboto Bold Italic'),
@@ -120,7 +120,7 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; 'Roboto';
   font-weight: 900;
   font-style: italic;
   src: local('Roboto Black Italic'),

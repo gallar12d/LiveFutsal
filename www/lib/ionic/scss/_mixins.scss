@@ -224,13 +224,13 @@
 // --------------------------------------------------
 
 @mixin font-family-serif() {
-  font-family: $serif-font-family;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $serif-font-family;
 }
 @mixin font-family-sans-serif() {
-  font-family: $sans-font-family;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $sans-font-family;
 }
 @mixin font-family-monospace() {
-  font-family: $mono-font-family;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; $mono-font-family;
 }
 @mixin font-shorthand($size: $base-font-size, $weight: normal, $line-height: $base-line-height) {
   font-weight: $weight;

@@ -81,7 +81,7 @@ script {
 
 html {
   @include user-select(none);
-  font-family: sans-serif; /* 1 */
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; sans-serif; /* 1 */
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -166,7 +166,7 @@ kbd,
 pre,
 samp {
   font-size: 1em;
-  font-family: monospace, serif;
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; monospace, serif;
 }
 
 /**
@@ -248,7 +248,7 @@ select,
 textarea {
   margin: 0; /* 3 */
   font-size: 100%; /* 2 */
-  font-family: inherit; /* 1 */
+  font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; inherit; /* 1 */
   outline-offset: 0; /* 4 */
   outline-style: none; /* 4 */
   outline-width: 0; /* 4 */
