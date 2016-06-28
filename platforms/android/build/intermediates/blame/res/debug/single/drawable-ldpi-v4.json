@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

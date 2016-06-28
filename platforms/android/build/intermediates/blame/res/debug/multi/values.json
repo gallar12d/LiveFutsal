@@ -1,0 +1,1337 @@
+[
+    {
+        "outputFile": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 60,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 89,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 89,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 79,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 79,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 89,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 89,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 89,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 89,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 79,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 79,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 80,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 80,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 79,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 79,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 79,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 79,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 87,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 87,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 77,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 77,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 87,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 87,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1091,
+                    "endColumn": 87,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endColumn": 87,
+                        "endOffset": 1330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 77,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endColumn": 77,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 78,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 78,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endColumn": 77,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1492,
+                        "endColumn": 77,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 77,
+                    "endOffset": 1487
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 77,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1492,
+                    "endColumn": 76,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 76,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 86,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 86,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1656,
+                    "endColumn": 78,
+                    "endOffset": 1730
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 78,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1735,
+                    "endColumn": 64,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 64,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endColumn": 64,
+                    "endOffset": 1860
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 64,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1865,
+                    "endColumn": 64,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 64,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3624,
+                    "endColumn": 64,
+                    "endOffset": 3684
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 64,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3689,
+                    "endColumn": 74,
+                    "endOffset": 3759
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endColumn": 74,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3764,
+                    "endColumn": 73,
+                    "endOffset": 3833
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 73,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3838,
+                    "endColumn": 67,
+                    "endOffset": 3901
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1023,
+                        "endColumn": 67,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3906,
+                    "endColumn": 78,
+                    "endOffset": 3980
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 78,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3985,
+                    "endColumn": 73,
+                    "endOffset": 4054
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 73,
+                        "endOffset": 1239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4059,
+                    "endColumn": 75,
+                    "endOffset": 4130
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1244,
+                        "endColumn": 75,
+                        "endOffset": 1315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4135,
+                    "endColumn": 76,
+                    "endOffset": 4207
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 76,
+                        "endOffset": 1392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4212,
+                    "endColumn": 63,
+                    "endOffset": 4271
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1397,
+                        "endColumn": 63,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4276,
+                    "endColumn": 65,
+                    "endOffset": 4337
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 65,
+                        "endOffset": 1522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4342,
+                    "endColumn": 66,
+                    "endOffset": 4404
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 66,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4409,
+                    "endColumn": 63,
+                    "endOffset": 4468
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 63,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4473,
+                    "endColumn": 47,
+                    "endOffset": 4516
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4521,
+                    "endColumn": 231,
+                    "endOffset": 4748
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2214,
+                        "endColumn": 231,
+                        "endOffset": 2441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4753,
+                    "endColumn": 125,
+                    "endOffset": 4874
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2446,
+                        "endColumn": 125,
+                        "endOffset": 2567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4879,
+                    "endColumn": 180,
+                    "endOffset": 5055
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endColumn": 180,
+                        "endOffset": 2748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5060,
+                    "endColumn": 124,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2753,
+                        "endColumn": 124,
+                        "endOffset": 2873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endColumn": 123,
+                    "endOffset": 5304
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2878,
+                        "endColumn": 123,
+                        "endOffset": 2997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5309,
+                    "endColumn": 212,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3002,
+                        "endColumn": 212,
+                        "endOffset": 3210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 214,
+                    "endOffset": 5732
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3215,
+                        "endColumn": 214,
+                        "endOffset": 3425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5737,
+                    "endColumn": 122,
+                    "endOffset": 5855
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3430,
+                        "endColumn": 122,
+                        "endOffset": 3548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5860,
+                    "endColumn": 164,
+                    "endOffset": 6020
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3553,
+                        "endColumn": 164,
+                        "endOffset": 3713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6025,
+                    "endColumn": 93,
+                    "endOffset": 6114
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3718,
+                        "endColumn": 93,
+                        "endOffset": 3807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6119,
+                    "endColumn": 140,
+                    "endOffset": 6255
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3812,
+                        "endColumn": 140,
+                        "endOffset": 3948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6260,
+                    "endColumn": 89,
+                    "endOffset": 6345
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3953,
+                        "endColumn": 89,
+                        "endOffset": 4038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6350,
+                    "endColumn": 102,
+                    "endOffset": 6448
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 4043,
+                        "endColumn": 102,
+                        "endOffset": 4141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6453,
+                    "endColumn": 150,
+                    "endOffset": 6599
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 4146,
+                        "endColumn": 150,
+                        "endOffset": 4292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6604,
+                    "endColumn": 121,
+                    "endOffset": 6721
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 4297,
+                        "endColumn": 121,
+                        "endOffset": 4414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6726,
+                    "endColumn": 142,
+                    "endOffset": 6864
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4419,
+                        "endColumn": 142,
+                        "endOffset": 4557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6869,
+                    "endColumn": 99,
+                    "endOffset": 6964
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4562,
+                        "endColumn": 99,
+                        "endOffset": 4657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6969,
+                    "endColumn": 150,
+                    "endOffset": 7115
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4662,
+                        "endColumn": 150,
+                        "endOffset": 4808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7120,
+                    "endColumn": 91,
+                    "endOffset": 7207
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4813,
+                        "endColumn": 91,
+                        "endOffset": 4900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7212,
+                    "endColumn": 218,
+                    "endOffset": 7426
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 218,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7431,
+                    "endColumn": 218,
+                    "endOffset": 7645
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4905,
+                        "endColumn": 218,
+                        "endOffset": 5119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7650,
+                    "endColumn": 94,
+                    "endOffset": 7740
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 5124,
+                        "endColumn": 94,
+                        "endOffset": 5214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7745,
+                    "endColumn": 104,
+                    "endOffset": 7845
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 5219,
+                        "endColumn": 104,
+                        "endOffset": 5319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7850,
+                    "endColumn": 180,
+                    "endOffset": 8026
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 5324,
+                        "endColumn": 180,
+                        "endOffset": 5500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 8031,
+                    "endColumn": 124,
+                    "endOffset": 8151
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 5505,
+                        "endColumn": 124,
+                        "endOffset": 5625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 8156,
+                    "endColumn": 174,
+                    "endOffset": 8326
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 5630,
+                        "endColumn": 174,
+                        "endOffset": 5800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 8331,
+                    "endColumn": 104,
+                    "endOffset": 8431
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 5805,
+                        "endColumn": 104,
+                        "endOffset": 5905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 8436,
+                    "endColumn": 147,
+                    "endOffset": 8579
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 5910,
+                        "endColumn": 147,
+                        "endOffset": 6053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 8584,
+                    "endColumn": 62,
+                    "endOffset": 8642
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 6058,
+                        "endColumn": 62,
+                        "endOffset": 6116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 8647,
+                    "endColumn": 61,
+                    "endOffset": 8704
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 6121,
+                        "endColumn": 61,
+                        "endOffset": 6178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 8709,
+                    "endColumn": 78,
+                    "endOffset": 8783
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 6183,
+                        "endColumn": 78,
+                        "endOffset": 6257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8788,
+                    "endColumn": 58,
+                    "endOffset": 8842
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 58,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8847,
+                    "endColumn": 72,
+                    "endOffset": 8915
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 72,
+                        "endOffset": 1754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 8920,
+                    "endColumn": 65,
+                    "endOffset": 8981
+                },
+                "from": {
+                    "file": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1759,
+                        "endColumn": 65,
+                        "endOffset": 1820
+                    }
+                }
+            }
+        ]
+    }
+]

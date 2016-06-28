@@ -1,0 +1,22 @@
+<ion-view title="Calendario Hero" id="page12" class=" ">
+    <ion-content padding="true" class="has-header">
+      <div class="" ng-repeat="calendario in calendarios| orderBy:$index:true">
+        <div class="list card " id="calendarioHero-card212">
+            <ion-item class="item-thumbnail-left  " id="calendarioHero-list-item56">
+                <img src="img/WqEYJKm0RMIjA3uqWQGT_cGCnBOkPQnO30LcDe5cg_futsalon.png">
+                <h2>Fecha</h2>
+                <p style="text-transform: lowercase;">{{calendario.ronda}}</p>
+                <p style="text-transform: lowercase;">{{calendario.fecha}}</p>
+                <small style="font-size: 70%;">Copyright {{calendario.fuente}}</small>
+            </ion-item>
+            <div class=" item item-image">
+                <img src="{{calendario.urlimagen1}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+            </div>
+            <div class=" item item-image">
+                <img src="{{calendario.urlimagen2}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+            </div>
+        </div>
+      </div>
+
+    </ion-content>
+</ion-view>
