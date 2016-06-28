@@ -1,0 +1,21 @@
+$balanced: #BED730;
+$assertive: #E53E2B;
+$calm: #00AAAC;
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+ion-view,.pane,.view {
+	background-color: #FDFFFC;
+}
+
+body.platform-android {
+	font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; Roboto, sans-serif;
+}
+
+.ionic-body.platform-android {
+	font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; Roboto, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.tab-item,input,button,select,textarea {
+	font-family: 'Exo 2', sans-serif; 'Architects Daughter', cursive; inherit;
+}
+

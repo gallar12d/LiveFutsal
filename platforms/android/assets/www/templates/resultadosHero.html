@@ -1,0 +1,60 @@
+<ion-view title="Resultados Hero" id="page6" style="background-color:#FFFFFF;" class=" ">
+    <ion-content padding="true" class="has-header">
+      <div ng-repeat="resultado in resultadosAll| orderBy:$index:true" >
+
+       <div class="border">
+          <div class="row" style="margin-left: 0px;">
+             <div class="col-xs-12">
+
+                <h4 class="text-center">
+                   {{resultado.fecha}}
+                </h4>
+                <h5 class="text-center">
+                   {{resultado.hora}}
+                </h5>
+                <div class="border2">
+                  <h5 class="text-center">
+                    {{resultado.estado}}
+                  </h5>
+                  <h6 class="text-center">
+                  {{resultado.ronda}}
+                  </h6>
+                   <div class="row">
+
+                      <div class="col-xs-6">
+                         <h5 class ="text-left">
+                            {{resultado.equipo1}}
+                         </h5>
+                      </div>
+                      <div class="col-xs-6">
+                         <h5 class ="text-right">
+                            {{resultado.equipo2}}
+                         </h5>
+                      </div>
+                   </div>
+                   <div class="row">
+                      <div class="col-xs-4">
+                         <h5 class ="text-left">
+                            {{resultado.marcador1}}
+                         </h5>
+                         <img alt="Bootstrap Image Preview" src="{{resultado.urlAvatar1}}" style ="width: 50px;"class="img-circle" />
+                      </div>
+                      <div class="col-xs-4">
+                         <h5 class="text-center">
+                            VS
+                         </h5>
+                      </div>
+                      <div class="col-xs-4">
+                         <h5 class ="text-right">
+                            {{resultado.marcador2}}
+                         </h5>
+                         <img alt="Bootstrap Image Preview" src="{{resultado.urlAvatar2}}" style ="width: 50px;"class="img-circle imgRight" />
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+    </ion-content>
+</ion-view>
