@@ -28,7 +28,7 @@
                          <h5 class="title">Resultados en vivo</h5>
                        </div>
                        <br>
-                      
+
                        <div class="box blue" ng-controller="resultadosHeroCtrl">
                          <!-- <div ng-hide="!showPager" class="swiper-pagination swiper-pagination-clickable">
                            <span class="swiper-pagination-bullet swiper-pagination-bullet-active"> </span>
@@ -106,7 +106,7 @@
                                <img src="{{noticia.urlImgNoticia}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
                                <p><small style="font-size: 70%; text-align: right;" >{{noticia.derechoFoto}}</small></p>
                              </div>
-                             <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="tel:"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item>
+                             <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="{{noticia.urlNoticia}}"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item>
                              <p id="noticiasHero-markdown6" style="color:#000000;text-align:justify;" class=" "></p>
                              <p id="noticiasHero-markdown7" style="color:#000000;text-align:center;" class=" ">{{noticia.texto}}</p>
                            </div>

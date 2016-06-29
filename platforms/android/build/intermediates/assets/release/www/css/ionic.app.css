@@ -3502,7 +3502,7 @@ ion-infinite-scroll {
   top: 88px; }
 
 .has-tabs-top {
-  top: 50px;}
+      top: 55px;}
 
 .has-header.has-subheader.has-tabs-top {
   top: 137px; }
@@ -4473,7 +4473,7 @@ font-size: 15px;
     color: #444; }
 
 .tabs-striped .tabs {
-  background-color: #f8f8f8;
+  background-color: #ffffff;;
   background-image: none;
   border: none;
   border-bottom: 1px solid #ddd;
@@ -7018,10 +7018,11 @@ button.swiper-pagination-bullet {
   height: 22px;
   left: 0;
   background-color: #5d8a5b;
-  width: 100%;}
+  width: 100%;
+display: none;}
 
   .tab-nav.tabs {
-      border-style: solid;
+
       border-color: #5d8a5b;
   }
 

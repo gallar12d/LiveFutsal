@@ -84,12 +84,12 @@
         "source": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
     },
     {
-        "merged": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
         "merged": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_stat_livefutsalcortado.png",
         "source": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\res\\drawable-mdpi\\ic_stat_livefutsalcortado.png"
+    },
+    {
+        "merged": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "D:\\Apps\\Futsalionic\\SlidesLiveFutsal\\platforms\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",

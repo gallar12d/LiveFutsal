@@ -6,112 +6,112 @@
         jumboMode="false"
         revision="23.0.1"
         sha1="a2a970659ebfd3fdd42ff10dd6aebe48b042966d">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.onesignal-OneSignal-2.4.1_48bde36beaf0aa105b9a7ab821143ec81648c8e1.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-9.0.2_b84b20f88e3f53b9d754aab1c0314afefdba96ef.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-9.0.2_e6e8f6bfd9abd44f2ee28089f032862dfed2e479.jar" />
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.onesignal-OneSignal-2.4.1_48bde36beaf0aa105b9a7ab821143ec81648c8e1.jar" />
     </item>
     <item
         jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="834e4f3e63e320e4edd8923ab04411c44aa97d0d">
+        sha1="56225ff7dff27a9932b745a6af88f9e0d2a5cfe3">
         <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-unspecified-release_26c88460de6ea0eeff99aa6d9cbcffddb0e7e944.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.0.2_4050544feccf27923d877603be77c74b93a221dd.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.0.2_344fe11433e1acc93b6080fcd93a9dca2955c388.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.0.2_ed19e171188ff17621ea6e61492bf18c5f96c03e.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.0_b455547937f19bb9fa58232eab4adadfa972620b.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-impl-9.0.2_eb9e864757a71ba5b58c91cb39ea05da88554dfc.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-9.0.2_d6597f0d2666218b4ec7196b3c564248d26b0082.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-9.0.2_5933bcc1078b38ff598afee2c15adebea7c6fa4e.jar" />
-    </item>
-    <item
-        jar="C:\Users\herna_000\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\support-annotations-23.0.0_8adf22b06f132b609f0c857d91540212fe2d5581.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.0.2_508623b6e3ca0d824b85185ac907c1baff8f2732.jar" />
-    </item>
-    <item
-        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a21ccd83dcf9be7fc271b8ab0e4dc76d554225a3">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_0505a022cd900d8f5bf6c55d8d4a3264e18f2aa1.jar" />
     </item>
     <item
         jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-9.0.2_bdb2baab5dfb6822f16db96ac773b4320d326c62.jar" />
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.2_bdb2baab5dfb6822f16db96ac773b4320d326c62.jar" />
+    </item>
+    <item
+        jar="C:\Users\herna_000\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_8adf22b06f132b609f0c857d91540212fe2d5581.jar" />
     </item>
     <item
         jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\release\internal_impl-23.0.0_ee21298bd989747d228e88efd135c072cd6275e4.jar" />
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ee21298bd989747d228e88efd135c072cd6275e4.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_344fe11433e1acc93b6080fcd93a9dca2955c388.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.2_e6e8f6bfd9abd44f2ee28089f032862dfed2e479.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.2_5933bcc1078b38ff598afee2c15adebea7c6fa4e.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.2_eb9e864757a71ba5b58c91cb39ea05da88554dfc.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e877cd9ef68ae76a0b2e725b505485e6e9ea504">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_0505a022cd900d8f5bf6c55d8d4a3264e18f2aa1.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.2_d6597f0d2666218b4ec7196b3c564248d26b0082.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_508623b6e3ca0d824b85185ac907c1baff8f2732.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_4050544feccf27923d877603be77c74b93a221dd.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_b455547937f19bb9fa58232eab4adadfa972620b.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.2_b84b20f88e3f53b9d754aab1c0314afefdba96ef.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\Apps\Futsalionic\SlidesLiveFutsal\platforms\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_ed19e171188ff17621ea6e61492bf18c5f96c03e.jar" />
     </item>
 
 </items>

@@ -316,11 +316,17 @@ angular.module('app.controllers', [])
 })
 
 .controller('imagenesHeroCtrl', function($scope, $http, $firebaseArray, $rootScope, $sce) {
+$scope.$on('$ionicView.enter', function(e) {
   var RefUser = new Firebase("https://livefutsal1.firebaseio.com/ImagenesHero");
     $scope.todosResultados = $firebaseArray(RefUser);
     $scope.todosResultados.$loaded().then(function(dataResultados) {
       if (dataResultados.length) {
         $scope.imagenes = dataResultados;
+        $scope.items = [{src: "http://www.fepucv.cl/wp-content/uploads/2016/04/IMG_0947.jpg", sub: "algo"}];
+
+
+
+        console.log($scope.items)
       } else {
         $scope.todosResultados.$add({
           titulo: 'leones',
@@ -330,6 +336,7 @@ angular.module('app.controllers', [])
         });
       }
     })
+        });
 
 })
 
