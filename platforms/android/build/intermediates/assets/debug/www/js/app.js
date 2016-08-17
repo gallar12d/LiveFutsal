@@ -42,3 +42,11 @@ angular.module('app', ['ionic', 'firebase', 'app.controllers', 'app.routes', 'ap
     }
   });
 })
+app.config(function(ionGalleryConfigProvider) {
+  ionGalleryConfigProvider.setGalleryConfig({
+                          action_label: 'Close',
+                          toggle: false,
+                          row_size: 3,
+                          fixed_row_size: true
+  });
+});
