@@ -6,7 +6,7 @@
  * Material UI-like Floating Action Button and Menu for Ionic applications.
  *
  * By @ennedigi
- * 
+ *
  * Licensed under the MIT license. Please see LICENSE for more information.
  *
  */
@@ -103,7 +103,7 @@ angular.module('ion-floating-menu', [])
                     if ($scope.hasFooter) {
                         $scope.bottomValue = '60px';
                     } else {
-                        $scope.bottomValue = '20px';
+                        $scope.bottomValue = '60px';
                     }
                 }
             };

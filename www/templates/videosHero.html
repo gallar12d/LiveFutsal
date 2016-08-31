@@ -1,9 +1,14 @@
 <ion-view title="videos hero" id="page25" class=" ">
-    <ion-content padding="true" class="has-header">
+    <ion-content padding="false" id="totalAncho" class="has-header">
+      <div id="barra1" class="bar bar-header bar-stable">
+        <h5 class="title">Top Videos Copa Hero</h5>
+      </div>
+      <br>
+      <br>
       <div class="" ng-repeat="video in videos| orderBy:$index:true">
         <div class="list card " id="videosHero-card231">
-            <h4 id="videosHero-heading6" style="color:#000222;font-weight:400;text-align:center;" class=" ">{{video.titulo}}</h4>
-            <h6 id="videosHero-heading6" style="color:#000222;font-weight:400;text-align:center;" class=" ">{{video.fecha}}</h6>
+
+              <p style="font-size: 70%; text-align: center;" id="videosHero-markdown16" style="color:#000222;font-size:10px;" class=" ">{{video.fecha}}</p>
             <div>
               <iframe width="100%;" height="auto" ng-src="{{trustSrc(video.url)}}" frameborder="0" allowfullscreen></iframe>
             </div>

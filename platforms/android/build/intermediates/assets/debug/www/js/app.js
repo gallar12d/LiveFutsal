@@ -26,6 +26,8 @@ angular.module('app', ['ionic', 'firebase', 'app.controllers', 'app.routes', 'ap
     window.plugins.OneSignal.setSubscription(true);
     window.plugins.OneSignal.enableNotificationWhenActive(true);
     window.plugins.OneSignal.enableInAppAlertNotification(true);
+    window.plugins.OneSignal.enableSound(false);
+    window.plugins.OneSignal.enableVibrate(false);
 
 
 

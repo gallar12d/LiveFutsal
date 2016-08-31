@@ -1,5 +1,5 @@
 <ion-view title="" hide-back-button="true" id="page2" class=" ">
-  <ion-floating-menu  menu-open-color="#c1201f"  menu-color ="#c1201f"  menu-icon="ion-navicon" menu-icon-color="" iconColor="#fff">
+  <ion-floating-menu  menu-open-color="#cf3932"  menu-color ="#cf3932"  menu-icon="ion-navicon" menu-icon-color="" iconColor="#fff">
       <ion-floating-item button-color="#ffffff" icon="ion-gear-b" click="click()" ></ion-floating-item>
       <ion-floating-item button-color="#ffffff" icon="ion-images" click="click()" ui-sref="tabsController.imagenesHero" ></ion-floating-item>
       <ion-floating-item button-color="#ffffff" icon="ion-ios-film" click="click()" ui-sref="tabsController.videosHero" ></ion-floating-item>
@@ -8,7 +8,9 @@
 
 
   <ion-content scroll="false">
-
+<ion-gallery ion-gallery-items="items">
+  <h1>hola mundo</h1>
+</ion-gallery>
 
 
     <tab-slide-box>
@@ -24,11 +26,11 @@
                  <ion-slide-box show-pager="false" on-slide-changed="slideHasChanged($index)">
                      <ion-slide>
                      <ion-content>
-                       <div class="bar bar-header bar-stable">
+                       <div id="barra1" class="bar bar-header bar-stable">
                          <h5 class="title">Resultados en vivo</h5>
                        </div>
                        <br>
-                      
+
                        <div class="box blue" ng-controller="resultadosHeroCtrl">
                          <!-- <div ng-hide="!showPager" class="swiper-pagination swiper-pagination-clickable">
                            <span class="swiper-pagination-bullet swiper-pagination-bullet-active"> </span>
@@ -93,7 +95,7 @@
                      </ion-slide>
                      <ion-slide>
                      <ion-content>
-                       <div class="bar bar-header bar-stable">
+                       <div  id="barra1" class="bar bar-header bar-stable">
                          <h5 class="title">Noticias</h5>
                        </div>
                        <br>
@@ -106,7 +108,7 @@
                                <img src="{{noticia.urlImgNoticia}}" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
                                <p><small style="font-size: 70%; text-align: right;" >{{noticia.derechoFoto}}</small></p>
                              </div>
-                             <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="tel:"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item>
+                             <ion-item class="item-icon-left " id="noticiasHero-list-item42" href="{{noticia.urlNoticia}}"  target="_blank"> <i class="icon ion-android-chat"></i>{{noticia.titulo}}</ion-item>
                              <p id="noticiasHero-markdown6" style="color:#000000;text-align:justify;" class=" "></p>
                              <p id="noticiasHero-markdown7" style="color:#000000;text-align:center;" class=" ">{{noticia.texto}}</p>
                            </div>
@@ -116,7 +118,7 @@
                      </ion-slide>
                      <ion-slide>
                      <ion-content>
-                       <div class="bar bar-header bar-stable">
+                       <div   id="barra1" class="bar bar-header bar-stable">
                          <h5 class="title">Calendarios</h5>
                        </div>
 
@@ -146,7 +148,7 @@
                      </ion-slide>
                <ion-slide>
                <ion-content>
-                 <div class="bar bar-header bar-stable">
+                 <div  id="barra1" class="bar bar-header bar-stable">
                    <h5 class="title">Equipos</h5>
                  </div>
                  <br>
