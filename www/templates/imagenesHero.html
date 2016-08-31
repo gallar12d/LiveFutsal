@@ -1,10 +1,20 @@
 <ion-view title="Imagenes Hero" id="page24" class=" ">
-    <ion-content overflow-scroll="false">
+  <ion-content padding="false" id="totalAncho" class="has-header">
+    <div id="barra1" class="bar bar-header bar-stable">
+      <h5 class="title">Top Imágenes Copa Hero</h5>
+    </div>
+    <br>
+    <br>
+    <div class="" ng-repeat="imagen in imagenes| orderBy:$index:true">
+      <div class="">
+        <img src="{{imagen.src}}" class="img-rounded" alt="Cinque Terre" width="100%" height="auto">
+        <small style="font-size: 70%; text-align: center;">
+          Fuente: {{imagen.fuente}}
+        </small>
 
-  
 
+      </div>
+    </div>
 
-
-
-    </ion-content>
+  </ion-content>
 </ion-view>
